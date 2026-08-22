@@ -1,0 +1,34 @@
+# Normalise line endings so the repo does not show phantom whole-file diffs
+# when opened on a different machine.
+* text=auto eol=lf
+
+# Windows-only scripts must keep CRLF or they will not run.
+*.bat  text eol=crlf
+*.cmd  text eol=crlf
+*.ps1  text eol=crlf
+
+# BINARY - never apply line-ending conversion to these. Rewriting bytes inside
+# a .pkl would silently corrupt the trained models.
+*.pkl  binary
+*.joblib binary
+*.png  binary
+*.jpg  binary
+*.jpeg binary
+*.gif  binary
+*.ico  binary
+*.pdf  binary
+*.docx binary
+*.xlsx binary
+*.zip  binary
+*.woff binary
+*.woff2 binary
+
+# Treat notebooks as text but do not try to merge them - conflicts in JSON
+# outputs are unresolvable by hand.
+*.ipynb text merge=binary
+
+# Keep generated / vendored files out of GitHub's language statistics and
+# collapse them in pull-request diffs.
+package-lock.json  linguist-generated=true -diff
+data/processed/*   linguist-generated=true
+ml/reports/*.csv   linguist-generated=true
