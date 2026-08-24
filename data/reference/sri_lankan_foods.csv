@@ -1,0 +1,53 @@
+food_item,category,meal_type,serving_description,calories,protein_g,carbs_g,fat_g,fiber_g,sugar_g,sodium_mg,cholesterol_mg
+String Hoppers (Idiyappam),Sri Lankan - Rice Flour,breakfast,10 pieces,350,7.0,76.0,1.5,3.0,0.5,180,0
+Milk Rice (Kiribath),Sri Lankan - Rice,breakfast,2 slices,320,5.0,48.0,12.0,2.0,1.0,240,0
+Pol Roti (Coconut Roti),Sri Lankan - Flatbread,breakfast,2 pieces,340,6.0,44.0,15.0,5.0,2.0,320,0
+Egg Hoppers (Bittara Appa),Sri Lankan - Hoppers,breakfast,2 pieces,300,12.0,34.0,13.0,2.0,3.0,260,186
+Plain Hoppers (Appa),Sri Lankan - Hoppers,breakfast,3 pieces,240,4.0,46.0,4.0,1.5,4.0,150,0
+Kola Kanda (Herbal Porridge),Sri Lankan - Porridge,breakfast,1 cup,120,3.0,20.0,3.0,3.0,2.0,90,0
+Thosai (Dosa),Sri Lankan - Fermented Batter,breakfast,2 pieces,260,8.0,46.0,5.0,3.0,1.0,300,0
+Idli,Sri Lankan - Steamed Rice Cake,breakfast,3 pieces,180,6.0,36.0,1.0,2.0,0.5,220,0
+Pittu with Coconut Milk,Sri Lankan - Steamed Rice Flour,breakfast,1 cup,380,7.0,60.0,13.0,4.0,2.0,200,0
+Bread with Dhal Curry,Sri Lankan - Bread & Curry,breakfast,2 slices + half cup,330,12.0,52.0,8.0,6.0,3.0,480,0
+Rice and Chicken Curry,Sri Lankan - Rice & Curry,lunch,1 plate,650,35.0,85.0,18.0,5.0,4.0,780,95
+Rice and Fish Curry,Sri Lankan - Rice & Curry,lunch,1 plate,600,32.0,84.0,14.0,5.0,3.0,720,65
+Rice and Dhal Curry (Vegetarian),Sri Lankan - Rice & Curry,lunch,1 plate,520,16.0,90.0,10.0,9.0,4.0,640,0
+Yellow Rice with Chicken,Sri Lankan - Rice,lunch,1 plate,700,33.0,92.0,22.0,4.0,5.0,860,90
+Chicken Fried Rice,Sri Lankan - Fried Rice,lunch,1 plate,720,30.0,95.0,24.0,4.0,6.0,980,85
+Lamprais,Sri Lankan - Rice Parcel,lunch,1 parcel,780,32.0,92.0,30.0,5.0,6.0,1050,110
+Rice with Cuttlefish Curry,Sri Lankan - Rice & Curry,lunch,1 plate,620,34.0,84.0,15.0,4.0,3.0,760,180
+Rice with Beef Curry,Sri Lankan - Rice & Curry,lunch,1 plate,690,38.0,84.0,22.0,5.0,4.0,800,88
+Vegetable Kottu,Sri Lankan - Kottu,lunch,1 plate,620,16.0,88.0,22.0,7.0,5.0,1100,0
+Chicken Kottu,Sri Lankan - Kottu,lunch,1 plate,750,34.0,90.0,28.0,6.0,5.0,1280,95
+String Hoppers with Chicken Curry,Sri Lankan - Rice Flour & Curry,dinner,10 pieces + curry,560,30.0,78.0,14.0,4.0,3.0,700,80
+Rice with Prawn Curry,Sri Lankan - Rice & Curry,dinner,1 plate,610,33.0,82.0,16.0,4.0,3.0,820,190
+Godamba Roti with Chicken Curry,Sri Lankan - Flatbread & Curry,dinner,2 roti + curry,640,28.0,72.0,26.0,5.0,3.0,880,75
+Pittu with Fish Curry,Sri Lankan - Steamed Rice Flour,dinner,1 cup + curry,590,28.0,80.0,18.0,5.0,2.0,690,55
+Rice with Egg Curry,Sri Lankan - Rice & Curry,dinner,1 plate,550,20.0,82.0,16.0,4.0,3.0,650,372
+Devilled Chicken with Rice,Sri Lankan - Rice & Devilled,dinner,1 plate,680,40.0,78.0,22.0,4.0,7.0,1150,105
+Fish Ambul Thiyal with Rice,Sri Lankan - Rice & Curry,dinner,1 plate,580,34.0,80.0,12.0,4.0,2.0,740,60
+Vegetable Rice and Curry,Sri Lankan - Rice & Curry,dinner,1 plate,540,14.0,92.0,13.0,10.0,5.0,620,0
+Chicken Noodles,Sri Lankan - Noodles,dinner,1 plate,660,30.0,84.0,22.0,5.0,4.0,1020,80
+Dhal Curry with Red Rice,Sri Lankan - Rice & Curry,dinner,1 plate,560,18.0,94.0,11.0,11.0,4.0,600,0
+Pol Sambol,Sri Lankan - Sambol,snack,quarter cup,120,2.0,5.0,11.0,4.0,1.0,290,0
+Ulundu Vadai,Sri Lankan - Fried Snack,snack,1 piece,140,5.0,16.0,6.0,3.0,0.5,240,0
+Isso Vadai (Prawn Vadai),Sri Lankan - Fried Snack,snack,1 piece,160,7.0,17.0,7.0,2.0,0.5,300,45
+Fish Cutlet,Sri Lankan - Fried Snack,snack,2 pieces,180,8.0,18.0,9.0,2.0,1.0,340,30
+Fish Bun (Maalu Paan),Sri Lankan - Baked Snack,snack,1 bun,250,10.0,34.0,8.0,2.0,4.0,420,25
+Watalappan,Sri Lankan - Dessert,snack,1 slice,280,6.0,34.0,13.0,1.0,30.0,120,95
+Curd with Treacle (Kithul),Sri Lankan - Dairy,snack,1 cup,220,9.0,28.0,8.0,0.0,26.0,110,25
+King Coconut Water (Thambili),Sri Lankan - Beverage,snack,1 nut,60,1.0,14.0,0.2,0.0,12.0,105,0
+Roasted Gram (Kadala),Sri Lankan - Legume Snack,snack,half cup,190,10.0,30.0,3.0,8.0,2.0,15,0
+Boiled Chickpeas with Coconut,Sri Lankan - Legume Snack,snack,half cup,210,9.0,28.0,7.0,8.0,3.0,180,0
+Seeni Kesel (Sugar Banana),Sri Lankan - Fruit,snack,1 banana,110,1.2,28.0,0.3,3.0,20.0,2,0
+Halapa,Sri Lankan - Traditional Sweet,snack,1 piece,200,4.0,32.0,7.0,4.0,14.0,60,0
+Chicken Curry (No Rice),Sri Lankan - Curry,lunch,1 cup,280,28.0,6.0,16.0,2.0,2.0,520,88
+Fish Curry (No Rice),Sri Lankan - Curry,lunch,1 cup,240,26.0,7.0,11.0,2.0,2.0,480,60
+Dhal Curry (No Rice),Sri Lankan - Curry,lunch,1 cup,180,12.0,24.0,5.0,8.0,2.0,410,0
+Devilled Chicken (No Rice),Sri Lankan - Devilled,dinner,1 cup,320,34.0,12.0,15.0,2.0,6.0,780,95
+Prawn Curry (No Rice),Sri Lankan - Curry,dinner,1 cup,230,27.0,8.0,10.0,2.0,2.0,620,185
+Cuttlefish Curry (No Rice),Sri Lankan - Curry,dinner,1 cup,220,26.0,7.0,9.0,1.0,2.0,560,175
+Grilled Seer Fish (Thora),Sri Lankan - Grilled Fish,dinner,100 g fillet,190,30.0,0.0,8.0,0.0,0.0,320,62
+Egg Curry (No Rice),Sri Lankan - Curry,dinner,2 eggs,250,14.0,8.0,18.0,2.0,3.0,430,372
+Boiled Eggs,Sri Lankan - Protein Snack,snack,2 eggs,155,13.0,1.1,11.0,0.0,1.0,140,372
+Green Gram (Mung) Boiled,Sri Lankan - Legume Snack,snack,half cup,150,10.0,24.0,2.0,8.0,2.0,10,0
