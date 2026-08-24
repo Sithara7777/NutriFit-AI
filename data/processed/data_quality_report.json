@@ -1,0 +1,174 @@
+{
+  "seed": 42,
+  "mode": "real",
+  "gym_rows": 973,
+  "gym_columns": [
+    "age",
+    "gender",
+    "weight_kg",
+    "height_m",
+    "max_bpm",
+    "avg_bpm",
+    "resting_bpm",
+    "session_duration_h",
+    "calories_burned",
+    "workout_type",
+    "fat_percentage",
+    "water_intake_l",
+    "workout_frequency",
+    "experience_level",
+    "bmi",
+    "height_cm",
+    "bmi_supplied"
+  ],
+  "food_rows_repaired": 6,
+  "usda_enrichment": true,
+  "local_foods_enabled": true,
+  "local_foods_count": 52,
+  "fitness_goal_distribution": {
+    "fat_loss": 410,
+    "muscle_gain": 348,
+    "maintenance": 215
+  },
+  "activity_level_distribution": {
+    "moderate": 388,
+    "light": 233,
+    "active": 158,
+    "very_active": 147,
+    "sedentary": 47
+  },
+  "bmi_category_distribution": {
+    "normal": 370,
+    "overweight": 243,
+    "obese": 192,
+    "underweight": 168
+  },
+  "theoretical_r2_ceiling": {
+    "calorie_target": 0.9891,
+    "protein_target": 0.9943
+  },
+  "target_summary": {
+    "calorie_target": {
+      "mean": 2368.79,
+      "std": 690.75,
+      "min": 1200.0,
+      "max": 4678.9
+    },
+    "protein_target": {
+      "mean": 149.35,
+      "std": 52.95,
+      "min": 66.1,
+      "max": 303.6
+    }
+  },
+  "catalogue_items": 645,
+  "catalogue_by_slot": [
+    {
+      "meal_type": "breakfast",
+      "items": 103,
+      "median_calories": 130.0,
+      "min_calories": 20.0,
+      "max_calories": 654.0,
+      "median_protein_g": 5.79,
+      "median_protein_density": 2.86
+    },
+    {
+      "meal_type": "dinner",
+      "items": 198,
+      "median_calories": 160.0,
+      "min_calories": 20.0,
+      "max_calories": 680.0,
+      "median_protein_g": 7.0,
+      "median_protein_density": 4.58
+    },
+    {
+      "meal_type": "lunch",
+      "items": 120,
+      "median_calories": 175.0,
+      "min_calories": 20.0,
+      "max_calories": 780.0,
+      "median_protein_g": 8.0,
+      "median_protein_density": 3.94
+    },
+    {
+      "meal_type": "snack",
+      "items": 224,
+      "median_calories": 130.0,
+      "min_calories": 20.0,
+      "max_calories": 833.0,
+      "median_protein_g": 2.0,
+      "median_protein_density": 2.0
+    }
+  ],
+  "catalogue_by_source": {
+    "Kaggle Daily Food & Nutrition": 489,
+    "USDA FoodData Central (per 100 g)": 104,
+    "Curated regional (Sri Lankan, per serving)": 52
+  },
+  "regional_coverage": [
+    {
+      "term": "rice",
+      "items": 34
+    },
+    {
+      "term": "curry",
+      "items": 20
+    },
+    {
+      "term": "hopper",
+      "items": 4
+    },
+    {
+      "term": "dhal",
+      "items": 4
+    },
+    {
+      "term": "pittu",
+      "items": 2
+    },
+    {
+      "term": "vadai",
+      "items": 2
+    },
+    {
+      "term": "roti",
+      "items": 2
+    },
+    {
+      "term": "kottu",
+      "items": 2
+    },
+    {
+      "term": "thosai",
+      "items": 1
+    },
+    {
+      "term": "kiribath",
+      "items": 1
+    },
+    {
+      "term": "sambol",
+      "items": 1
+    },
+    {
+      "term": "kanda",
+      "items": 1
+    },
+    {
+      "term": "lamprais",
+      "items": 1
+    },
+    {
+      "term": "idli",
+      "items": 1
+    },
+    {
+      "term": "watalappan",
+      "items": 1
+    },
+    {
+      "term": "dal",
+      "items": 0
+    }
+  ]
+}
