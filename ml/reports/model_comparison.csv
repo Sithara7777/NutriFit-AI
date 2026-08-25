@@ -1,0 +1,5 @@
+Target,Model,MAE,MSE,RMSE,R2,MAPE %,CV MAE (mean +/- sd),CV R2 (mean +/- sd),Fit time (s)
+calorie_target,Linear Regression,112.145,23858.3,154.461,0.9564,4.57,114.154 +/- 5.174,0.9514 +/- 0.0032,0.103
+calorie_target,Random Forest,107.611,23820.63,154.339,0.9564,4.63,96.165 +/- 3.971,0.9636 +/- 0.0022,265.465
+protein_target,Linear Regression,8.713,118.94,10.906,0.9552,6.03,8.859 +/- 0.424,0.9572 +/- 0.0023,0.02
+protein_target,Random Forest,8.372,108.97,10.439,0.959,5.66,8.716 +/- 0.492,0.9570 +/- 0.0029,248.416

@@ -1,0 +1,366 @@
+week,day_index,day_of_week,date,meal_slot,position,food_id,name,servings,calories,protein_g,carbs_g,fat_g,fiber_g
+1,0,Monday,,breakfast,0,egg_whole_dried__breakfast,"Egg, whole, dried",1.0,575.0,48.1,1.9,39.8,0.0
+1,0,Monday,,lunch,0,chicken_parm_sandwich__lunch,Chicken Parm Sandwich,1.0,650.0,40.0,55.0,30.0,6.0
+1,0,Monday,,lunch,1,quinoa_salad_1_cup__lunch,Quinoa Salad (1 cup),1.0,260.0,9.0,32.0,12.0,6.0
+1,0,Monday,,dinner,0,veal_parmesan_1_serving__dinner,Veal Parmesan (1 serving),1.0,550.0,40.0,30.0,30.0,4.0
+1,0,Monday,,dinner,1,baked_potato_medium__dinner,Baked Potato (medium),1.0,160.0,4.3,36.0,0.2,3.8
+1,0,Monday,,snack,0,chai_latte_12_oz__snack,Chai Latte (12 oz),1.0,190.0,7.0,32.0,4.0,1.0
+1,1,Tuesday,,breakfast,0,eggs_benedict_1_serving__breakfast,Eggs Benedict (1 serving),1.0,600.0,25.0,30.0,40.0,3.0
+1,1,Tuesday,,lunch,0,shawarma_chicken_1_wrap__lunch,Shawarma (Chicken 1 wrap),1.0,550.0,30.0,50.0,25.0,6.0
+1,1,Tuesday,,lunch,1,turkey_sandwich_on_wheat__lunch,Turkey Sandwich (on wheat),1.0,340.0,22.0,34.0,12.0,5.0
+1,1,Tuesday,,dinner,0,osso_buco_1_serving__dinner,Osso Buco (1 serving),1.0,550.0,45.0,15.0,30.0,4.0
+1,1,Tuesday,,dinner,1,wild_rice_1_cup_cooked__dinner,Wild Rice (1 cup cooked),1.0,166.0,6.5,35.0,0.6,3.0
+1,1,Tuesday,,snack,0,cheese_mozzarella_low_moisture_part_skim__snack,"Cheese, mozzarella, low moisture, part-skim",0.75,223.5,17.8,3.3,15.3,0.0
+1,2,Wednesday,,breakfast,0,egg_yolk_dried__breakfast,"Egg, yolk, dried",1.0,654.0,34.2,1.1,55.5,0.0
+1,2,Wednesday,,lunch,0,reuben_sandwich__lunch,Reuben Sandwich,1.0,650.0,28.0,35.0,40.0,5.0
+1,2,Wednesday,,lunch,1,ceviche_1_cup_fish__lunch,Ceviche (1 cup fish),1.0,180.0,25.0,15.0,2.0,3.0
+1,2,Wednesday,,dinner,0,chicken_alfredo_1_5_cups__dinner,Chicken Alfredo (1.5 cups),1.0,680.0,35.0,45.0,38.0,4.0
+1,2,Wednesday,,snack,0,greek_yogurt_plain_1_cup__snack,Greek Yogurt (plain 1 cup),1.0,150.0,25.0,8.0,3.0,0.0
+1,2,Wednesday,,snack,1,popcorn_3_cups_air_popped__snack,Popcorn (3 cups air-popped),1.0,93.0,3.0,18.6,1.1,3.6
+1,3,Thursday,,breakfast,0,pork_cured_bacon_cooked_restaurant__breakfast,"Pork, cured, bacon, cooked, restaurant",1.0,500.0,40.9,2.1,36.5,0.0
+1,3,Thursday,,breakfast,1,banana__breakfast,Banana,1.0,105.0,1.3,27.0,0.4,3.1
+1,3,Thursday,,lunch,0,meatball_sub_6_inch__lunch,Meatball Sub (6 inch),1.0,580.0,28.0,55.0,27.0,6.0
+1,3,Thursday,,lunch,1,lentil_soup_1_can__lunch,Lentil Soup (1 can),1.0,230.0,15.0,35.0,3.0,12.0
+1,3,Thursday,,dinner,0,beef_wellington_1_slice__dinner,Beef Wellington (1 slice),1.25,750.0,37.5,43.8,47.5,5.0
+1,3,Thursday,,snack,0,chicken_broilers_or_fryers_drumstick_meat_only_cooked_braise__snack,"Chicken, broilers or fryers, drumstick, meat only, cooked, braised",1.0,156.0,23.9,0.0,6.0,0.0
+1,3,Thursday,,snack,1,mango_1_cup_slices__snack,Mango (1 cup slices),1.0,99.0,1.4,24.7,0.6,2.6
+1,4,Friday,,breakfast,0,sausage_pork_chorizo_link_or_ground_cooked_pan_fried__breakfast,"Sausage, pork, chorizo, link or ground, cooked, pan-fried",1.0,346.0,19.3,2.6,28.1,0.0
+1,4,Friday,,breakfast,1,smoothie_fruit_yogurt__breakfast,Smoothie (Fruit & Yogurt),1.0,280.0,12.0,55.0,3.0,7.0
+1,4,Friday,,lunch,0,club_sandwich__lunch,Club Sandwich,1.5,870.0,52.5,60.0,45.0,7.5
+1,4,Friday,,dinner,0,lomo_saltado_1_5_cups__dinner,Lomo Saltado (1.5 cups),1.0,500.0,35.0,45.0,22.0,5.0
+1,4,Friday,,dinner,1,calamari_fried_3oz__dinner,Calamari (fried 3oz),1.0,150.0,13.0,8.0,7.0,1.0
+1,4,Friday,,snack,0,protein_bar__snack,Protein Bar,1.0,210.0,20.0,22.0,7.0,6.0
+1,4,Friday,,snack,1,candied_fruit_1_tbsp__snack,Candied Fruit (1 tbsp),1.0,30.0,0.0,8.0,0.0,0.5
+1,5,Saturday,,breakfast,0,ham_cheese_croissant__breakfast,Ham & Cheese Croissant,1.0,400.0,15.0,35.0,22.0,2.0
+1,5,Saturday,,breakfast,1,tofu_scramble__breakfast,Tofu Scramble,1.0,250.0,20.0,8.0,16.0,4.0
+1,5,Saturday,,lunch,0,vitello_tonnato_1_serving__lunch,Vitello Tonnato (1 serving),1.0,380.0,35.0,3.0,25.0,0.5
+1,5,Saturday,,lunch,1,hummus_wrap_large__lunch,Hummus Wrap (large),1.0,450.0,15.0,60.0,18.0,12.0
+1,5,Saturday,,dinner,0,beef_burrito_large__dinner,Beef Burrito (large),1.0,650.0,30.0,70.0,28.0,10.0
+1,5,Saturday,,snack,0,chicken_broiler_or_fryers_breast_skinless_boneless_meat_only__snack,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",1.0,166.0,32.1,0.0,3.2,0.0
+1,5,Saturday,,snack,1,corn_nuts_1_oz__snack,Corn Nuts (1 oz),1.0,130.0,2.0,23.0,4.0,2.0
+1,6,Sunday,,breakfast,0,egg_whole_dried__breakfast,"Egg, whole, dried",1.0,575.0,48.1,1.9,39.8,0.0
+1,6,Sunday,,lunch,0,chicken_parm_sandwich__lunch,Chicken Parm Sandwich,1.0,650.0,40.0,55.0,30.0,6.0
+1,6,Sunday,,lunch,1,quinoa_salad_1_cup__lunch,Quinoa Salad (1 cup),1.0,260.0,9.0,32.0,12.0,6.0
+1,6,Sunday,,dinner,0,paella_1_5_cups_seafood__dinner,Paella (1.5 cups seafood),1.0,550.0,30.0,70.0,18.0,6.0
+1,6,Sunday,,dinner,1,restaurant_latino_tamale_pork__dinner,"Restaurant, Latino, tamale, pork",1.0,174.0,7.4,15.8,9.0,2.4
+1,6,Sunday,,snack,0,edamame_in_pod_1_cup__snack,Edamame (in pod 1 cup),1.0,120.0,11.0,9.0,5.0,5.0
+1,6,Sunday,,snack,1,ground_lamb_1_oz_filling__snack,Ground Lamb (1 oz filling),1.0,80.0,5.5,0.0,6.0,0.0
+2,0,Monday,,breakfast,0,eggs_benedict_1_serving__breakfast,Eggs Benedict (1 serving),1.0,600.0,25.0,30.0,40.0,3.0
+2,0,Monday,,lunch,0,shawarma_chicken_1_wrap__lunch,Shawarma (Chicken 1 wrap),1.0,550.0,30.0,50.0,25.0,6.0
+2,0,Monday,,lunch,1,grilled_chicken_salad__lunch,Grilled Chicken Salad,1.0,350.0,30.0,10.0,20.0,5.0
+2,0,Monday,,dinner,0,osso_buco_1_serving__dinner,Osso Buco (1 serving),1.0,550.0,45.0,15.0,30.0,4.0
+2,0,Monday,,dinner,1,baked_potato_medium__dinner,Baked Potato (medium),1.0,160.0,4.3,36.0,0.2,3.8
+2,0,Monday,,snack,0,ham_sliced_pre_packaged_deli_meat_96_fat_free_water_added__snack,"Ham, sliced, pre-packaged, deli meat (96%fat free, water added)",1.0,106.0,16.7,0.3,3.7,0.0
+2,0,Monday,,snack,1,bananas_ripe_and_slightly_ripe_raw__snack,"Bananas, ripe and slightly ripe, raw",1.0,97.0,0.7,23.0,0.3,1.7
+2,1,Tuesday,,breakfast,0,egg_yolk_dried__breakfast,"Egg, yolk, dried",1.0,654.0,34.2,1.1,55.5,0.0
+2,1,Tuesday,,lunch,0,cobb_salad__lunch,Cobb Salad,1.0,510.0,30.0,12.0,38.0,7.0
+2,1,Tuesday,,lunch,1,turkey_sandwich_on_wheat__lunch,Turkey Sandwich (on wheat),1.0,340.0,22.0,34.0,12.0,5.0
+2,1,Tuesday,,dinner,0,veal_parmesan_1_serving__dinner,Veal Parmesan (1 serving),1.25,687.5,50.0,37.5,37.5,5.0
+2,1,Tuesday,,snack,0,kibbeh_1_piece_fried__snack,Kibbeh (1 piece fried),1.0,230.0,9.0,20.0,13.0,3.0
+2,2,Wednesday,,breakfast,0,pork_cured_bacon_cooked_restaurant__breakfast,"Pork, cured, bacon, cooked, restaurant",1.0,500.0,40.9,2.1,36.5,0.0
+2,2,Wednesday,,breakfast,1,banana__breakfast,Banana,1.0,105.0,1.3,27.0,0.4,3.1
+2,2,Wednesday,,lunch,0,reuben_sandwich__lunch,Reuben Sandwich,1.0,650.0,28.0,35.0,40.0,5.0
+2,2,Wednesday,,lunch,1,ceviche_1_cup_fish__lunch,Ceviche (1 cup fish),1.0,180.0,25.0,15.0,2.0,3.0
+2,2,Wednesday,,dinner,0,chicken_alfredo_1_5_cups__dinner,Chicken Alfredo (1.5 cups),1.0,680.0,35.0,45.0,38.0,4.0
+2,2,Wednesday,,snack,0,cheese_american_restaurant__snack,"Cheese, American, restaurant",0.75,281.2,13.1,4.8,23.3,0.0
+2,3,Thursday,,breakfast,0,sausage_italian_pork_mild_cooked_pan_fried__breakfast,"Sausage, Italian, pork, mild, cooked, pan-fried",1.0,322.0,18.2,2.1,26.2,0.0
+2,3,Thursday,,breakfast,1,smoothie_fruit_yogurt__breakfast,Smoothie (Fruit & Yogurt),1.0,280.0,12.0,55.0,3.0,7.0
+2,3,Thursday,,lunch,0,club_sandwich__lunch,Club Sandwich,1.0,580.0,35.0,40.0,30.0,5.0
+2,3,Thursday,,lunch,1,lentil_soup_1_can__lunch,Lentil Soup (1 can),1.0,230.0,15.0,35.0,3.0,12.0
+2,3,Thursday,,dinner,0,lomo_saltado_1_5_cups__dinner,Lomo Saltado (1.5 cups),1.0,500.0,35.0,45.0,22.0,5.0
+2,3,Thursday,,dinner,1,turkey_chili_1_cup__dinner,Turkey Chili (1 cup),1.0,250.0,22.0,25.0,7.0,8.0
+2,3,Thursday,,snack,0,bread_whole_wheat_commercially_prepared__snack,"Bread, whole-wheat, commercially prepared",1.0,254.0,12.3,43.1,3.5,6.0
+2,4,Friday,,breakfast,0,ham_cheese_croissant__breakfast,Ham & Cheese Croissant,1.0,400.0,15.0,35.0,22.0,2.0
+2,4,Friday,,breakfast,1,tofu_scramble__breakfast,Tofu Scramble,1.0,250.0,20.0,8.0,16.0,4.0
+2,4,Friday,,lunch,0,meatball_sub_6_inch__lunch,Meatball Sub (6 inch),1.0,580.0,28.0,55.0,27.0,6.0
+2,4,Friday,,lunch,1,cottage_cheese_1_cup_low_fat__lunch,Cottage Cheese (1 cup low fat),1.0,160.0,28.0,6.0,2.5,0.0
+2,4,Friday,,lunch,2,bulgur_1_4_cup_in_tabouli__lunch,Bulgur (1/4 cup in tabouli),1.0,76.0,2.7,16.8,0.2,4.1
+2,4,Friday,,dinner,0,beef_burrito_large__dinner,Beef Burrito (large),1.0,650.0,30.0,70.0,28.0,10.0
+2,4,Friday,,snack,0,cheese_dry_white_queso_seco__snack,"Cheese, dry white, queso seco",0.75,244.5,18.4,1.6,18.2,0.0
+2,5,Saturday,,breakfast,0,egg_whole_dried__breakfast,"Egg, whole, dried",1.0,575.0,48.1,1.9,39.8,0.0
+2,5,Saturday,,lunch,0,chicken_parm_sandwich__lunch,Chicken Parm Sandwich,1.0,650.0,40.0,55.0,30.0,6.0
+2,5,Saturday,,lunch,1,focaccia_1_square__lunch,Focaccia (1 square),1.0,250.0,8.0,40.0,7.0,2.0
+2,5,Saturday,,dinner,0,paella_1_5_cups_seafood__dinner,Paella (1.5 cups seafood),1.0,550.0,30.0,70.0,18.0,6.0
+2,5,Saturday,,dinner,1,white_beans_tuscan_style_1_2_cup__dinner,White Beans (Tuscan style 1/2 cup),1.0,150.0,8.0,20.0,4.0,7.0
+2,5,Saturday,,snack,0,protein_bar__snack,Protein Bar,1.0,210.0,20.0,22.0,7.0,6.0
+2,6,Sunday,,breakfast,0,eggs_benedict_1_serving__breakfast,Eggs Benedict (1 serving),1.0,600.0,25.0,30.0,40.0,3.0
+2,6,Sunday,,lunch,0,shawarma_chicken_1_wrap__lunch,Shawarma (Chicken 1 wrap),1.0,550.0,30.0,50.0,25.0,6.0
+2,6,Sunday,,lunch,1,grilled_chicken_salad__lunch,Grilled Chicken Salad,1.0,350.0,30.0,10.0,20.0,5.0
+2,6,Sunday,,dinner,0,osso_buco_1_serving__dinner,Osso Buco (1 serving),1.0,550.0,45.0,15.0,30.0,4.0
+2,6,Sunday,,dinner,1,baked_potato_medium__dinner,Baked Potato (medium),1.0,160.0,4.3,36.0,0.2,3.8
+2,6,Sunday,,snack,0,ham_sliced_restaurant__snack,"Ham, sliced, restaurant",1.0,121.0,19.6,2.4,3.7,0.0
+2,6,Sunday,,snack,1,figs_2_medium__snack,Figs (2 medium),1.0,74.0,0.6,19.2,0.3,2.9
+3,0,Monday,,breakfast,0,egg_yolk_dried__breakfast,"Egg, yolk, dried",1.0,654.0,34.2,1.1,55.5,0.0
+3,0,Monday,,lunch,0,vitello_tonnato_1_serving__lunch,Vitello Tonnato (1 serving),1.0,380.0,35.0,3.0,25.0,0.5
+3,0,Monday,,lunch,1,hummus_wrap_large__lunch,Hummus Wrap (large),1.0,450.0,15.0,60.0,18.0,12.0
+3,0,Monday,,dinner,0,veal_parmesan_1_serving__dinner,Veal Parmesan (1 serving),1.0,550.0,40.0,30.0,30.0,4.0
+3,0,Monday,,dinner,1,wild_rice_1_cup_cooked__dinner,Wild Rice (1 cup cooked),1.0,166.0,6.5,35.0,0.6,3.0
+3,0,Monday,,snack,0,greek_yogurt_plain_1_cup__snack,Greek Yogurt (plain 1 cup),1.0,150.0,25.0,8.0,3.0,0.0
+3,0,Monday,,snack,1,apples_granny_smith_with_skin_raw__snack,"Apples, granny smith, with skin, raw",1.0,59.0,0.3,14.2,0.1,2.5
+3,1,Tuesday,,breakfast,0,pork_cured_bacon_cooked_restaurant__breakfast,"Pork, cured, bacon, cooked, restaurant",1.0,500.0,40.9,2.1,36.5,0.0
+3,1,Tuesday,,breakfast,1,cereal_frosted_flakes_1_cup__breakfast,Cereal (Frosted Flakes 1 cup),1.0,130.0,2.0,31.0,0.0,1.0
+3,1,Tuesday,,lunch,0,pulled_pork_sandwich__lunch,Pulled Pork Sandwich,1.0,480.0,25.0,48.0,20.0,3.0
+3,1,Tuesday,,lunch,1,turkey_sandwich_on_wheat__lunch,Turkey Sandwich (on wheat),1.0,340.0,22.0,34.0,12.0,5.0
+3,1,Tuesday,,dinner,0,chicken_alfredo_1_5_cups__dinner,Chicken Alfredo (1.5 cups),1.0,680.0,35.0,45.0,38.0,4.0
+3,1,Tuesday,,snack,0,cheese_swiss__snack,"Cheese, swiss",0.75,294.8,20.2,1.1,23.2,0.0
+3,2,Wednesday,,breakfast,0,sausage_italian_pork_mild_cooked_pan_fried__breakfast,"Sausage, Italian, pork, mild, cooked, pan-fried",1.0,322.0,18.2,2.1,26.2,0.0
+3,2,Wednesday,,breakfast,1,bagel_plain__breakfast,Bagel (plain),1.0,270.0,11.0,55.0,1.5,2.0
+3,2,Wednesday,,lunch,0,club_sandwich__lunch,Club Sandwich,1.0,580.0,35.0,40.0,30.0,5.0
+3,2,Wednesday,,lunch,1,lentil_soup_1_can__lunch,Lentil Soup (1 can),1.0,230.0,15.0,35.0,3.0,12.0
+3,2,Wednesday,,dinner,0,lomo_saltado_1_5_cups__dinner,Lomo Saltado (1.5 cups),1.0,500.0,35.0,45.0,22.0,5.0
+3,2,Wednesday,,dinner,1,turkey_chili_1_cup__dinner,Turkey Chili (1 cup),1.0,250.0,22.0,25.0,7.0,8.0
+3,2,Wednesday,,snack,0,bread_whole_wheat_commercially_prepared__snack,"Bread, whole-wheat, commercially prepared",1.0,254.0,12.3,43.1,3.5,6.0
+3,3,Thursday,,breakfast,0,sausage_pork_chorizo_link_or_ground_cooked_pan_fried__breakfast,"Sausage, pork, chorizo, link or ground, cooked, pan-fried",1.0,346.0,19.3,2.6,28.1,0.0
+3,3,Thursday,,breakfast,1,smoothie_fruit_yogurt__breakfast,Smoothie (Fruit & Yogurt),1.0,280.0,12.0,55.0,3.0,7.0
+3,3,Thursday,,lunch,0,reuben_sandwich__lunch,Reuben Sandwich,1.0,650.0,28.0,35.0,40.0,5.0
+3,3,Thursday,,lunch,1,ceviche_1_cup_fish__lunch,Ceviche (1 cup fish),1.0,180.0,25.0,15.0,2.0,3.0
+3,3,Thursday,,dinner,0,chicken_milanesa_1_serving__dinner,Chicken Milanesa (1 serving),1.0,450.0,35.0,30.0,22.0,3.0
+3,3,Thursday,,dinner,1,pizza_1_slice_pepperoni__dinner,Pizza (1 slice pepperoni),1.0,290.0,12.0,34.0,12.0,2.0
+3,3,Thursday,,snack,0,protein_shake_whey__snack,Protein Shake (Whey),1.0,120.0,24.0,3.0,1.0,1.0
+3,3,Thursday,,snack,1,bananas_overripe_raw__snack,"Bananas, overripe, raw",1.0,85.0,0.7,20.1,0.2,1.7
+3,4,Friday,,breakfast,0,egg_whole_dried__breakfast,"Egg, whole, dried",1.0,575.0,48.1,1.9,39.8,0.0
+3,4,Friday,,lunch,0,chicken_parm_sandwich__lunch,Chicken Parm Sandwich,1.0,650.0,40.0,55.0,30.0,6.0
+3,4,Friday,,lunch,1,focaccia_1_square__lunch,Focaccia (1 square),1.0,250.0,8.0,40.0,7.0,2.0
+3,4,Friday,,dinner,0,beef_burrito_large__dinner,Beef Burrito (large),1.0,650.0,30.0,70.0,28.0,10.0
+3,4,Friday,,snack,0,cheese_mozzarella_low_moisture_part_skim__snack,"Cheese, mozzarella, low moisture, part-skim",1.0,298.0,23.7,4.4,20.4,0.0
+3,5,Saturday,,breakfast,0,eggs_benedict_1_serving__breakfast,Eggs Benedict (1 serving),1.0,600.0,25.0,30.0,40.0,3.0
+3,5,Saturday,,lunch,0,meatball_sub_6_inch__lunch,Meatball Sub (6 inch),1.0,580.0,28.0,55.0,27.0,6.0
+3,5,Saturday,,lunch,1,grilled_chicken_salad__lunch,Grilled Chicken Salad,1.0,350.0,30.0,10.0,20.0,5.0
+3,5,Saturday,,dinner,0,osso_buco_1_serving__dinner,Osso Buco (1 serving),1.25,687.5,56.2,18.8,37.5,5.0
+3,5,Saturday,,snack,0,kibbeh_1_piece_fried__snack,Kibbeh (1 piece fried),0.75,172.5,6.8,15.0,9.8,2.2
+3,6,Sunday,,breakfast,0,egg_yolk_dried__breakfast,"Egg, yolk, dried",1.0,654.0,34.2,1.1,55.5,0.0
+3,6,Sunday,,lunch,0,shawarma_chicken_1_wrap__lunch,Shawarma (Chicken 1 wrap),1.0,550.0,30.0,50.0,25.0,6.0
+3,6,Sunday,,lunch,1,cottage_cheese_1_cup_low_fat__lunch,Cottage Cheese (1 cup low fat),1.0,160.0,28.0,6.0,2.5,0.0
+3,6,Sunday,,lunch,2,vegetable_soup_1_can__lunch,Vegetable Soup (1 can),1.0,140.0,4.0,22.0,4.0,6.0
+3,6,Sunday,,dinner,0,veal_parmesan_1_serving__dinner,Veal Parmesan (1 serving),1.0,550.0,40.0,30.0,30.0,4.0
+3,6,Sunday,,dinner,1,polenta_1_cup_creamy__dinner,Polenta (1 cup creamy),1.0,150.0,3.0,32.0,1.0,3.0
+3,6,Sunday,,snack,0,arancini_1_large_ball__snack,Arancini (1 large ball),0.75,187.5,6.8,22.5,7.5,2.2
+4,0,Monday,,breakfast,0,tofu_scramble__breakfast,Tofu Scramble,1.0,250.0,20.0,8.0,16.0,4.0
+4,0,Monday,,breakfast,1,ham_cheese_croissant__breakfast,Ham & Cheese Croissant,1.0,400.0,15.0,35.0,22.0,2.0
+4,0,Monday,,lunch,0,caesar_salad_with_chicken__lunch,Caesar Salad (with chicken),1.0,470.0,30.0,15.0,30.0,3.0
+4,0,Monday,,lunch,1,chicken_wrap_with_tortilla__lunch,Chicken Wrap (with tortilla),1.0,410.0,25.0,38.0,17.0,5.0
+4,0,Monday,,dinner,0,chicken_alfredo_1_5_cups__dinner,Chicken Alfredo (1.5 cups),1.0,680.0,35.0,45.0,38.0,4.0
+4,0,Monday,,snack,0,turkey_ground_93_lean_7_fat_pan_broiled_crumbles__snack,"Turkey, ground, 93% lean, 7% fat, pan-broiled crumbles",0.75,165.0,20.3,0.0,8.7,0.0
+4,1,Tuesday,,breakfast,0,biscuits_and_gravy_1_serving__breakfast,Biscuits and Gravy (1 serving),1.0,480.0,10.0,45.0,28.0,2.0
+4,1,Tuesday,,breakfast,1,eggs_grade_a_large_egg_whole__breakfast,"Eggs, Grade A, Large, egg whole",1.0,148.0,12.4,1.0,10.0,0.0
+4,1,Tuesday,,lunch,0,club_sandwich__lunch,Club Sandwich,1.5,870.0,52.5,60.0,45.0,7.5
+4,1,Tuesday,,dinner,0,lomo_saltado_1_5_cups__dinner,Lomo Saltado (1.5 cups),1.0,500.0,35.0,45.0,22.0,5.0
+4,1,Tuesday,,dinner,1,mussels_3oz_steamed__dinner,Mussels (3oz steamed),1.0,146.0,20.0,6.0,4.0,0.0
+4,1,Tuesday,,snack,0,protein_bar__snack,Protein Bar,1.0,210.0,20.0,22.0,7.0,6.0
+4,1,Tuesday,,snack,1,sweet_vermouth_1_oz__snack,Sweet Vermouth (1 oz),1.0,40.0,0.0,5.0,0.0,0.0
+4,2,Wednesday,,breakfast,0,pork_cured_bacon_cooked_restaurant__breakfast,"Pork, cured, bacon, cooked, restaurant",1.0,500.0,40.9,2.1,36.5,0.0
+4,2,Wednesday,,breakfast,1,banana__breakfast,Banana,1.0,105.0,1.3,27.0,0.4,3.1
+4,2,Wednesday,,lunch,0,pulled_pork_sandwich__lunch,Pulled Pork Sandwich,1.0,480.0,25.0,48.0,20.0,3.0
+4,2,Wednesday,,lunch,1,turkey_sandwich_on_wheat__lunch,Turkey Sandwich (on wheat),1.0,340.0,22.0,34.0,12.0,5.0
+4,2,Wednesday,,dinner,0,paella_1_5_cups_seafood__dinner,Paella (1.5 cups seafood),1.0,550.0,30.0,70.0,18.0,6.0
+4,2,Wednesday,,dinner,1,calamari_fried_3oz__dinner,Calamari (fried 3oz),1.0,150.0,13.0,8.0,7.0,1.0
+4,2,Wednesday,,snack,0,mocha_latte_16oz__snack,Mocha Latte (16oz),0.75,270.0,9.0,36.0,11.2,1.5
+4,3,Thursday,,breakfast,0,egg_whole_dried__breakfast,"Egg, whole, dried",1.0,575.0,48.1,1.9,39.8,0.0
+4,3,Thursday,,lunch,0,chicken_parm_sandwich__lunch,Chicken Parm Sandwich,1.0,650.0,40.0,55.0,30.0,6.0
+4,3,Thursday,,lunch,1,focaccia_1_square__lunch,Focaccia (1 square),1.0,250.0,8.0,40.0,7.0,2.0
+4,3,Thursday,,dinner,0,beef_burrito_large__dinner,Beef Burrito (large),1.0,650.0,30.0,70.0,28.0,10.0
+4,3,Thursday,,snack,0,cheese_mozzarella_low_moisture_part_skim__snack,"Cheese, mozzarella, low moisture, part-skim",1.0,298.0,23.7,4.4,20.4,0.0
+4,4,Friday,,breakfast,0,sausage_pork_chorizo_link_or_ground_cooked_pan_fried__breakfast,"Sausage, pork, chorizo, link or ground, cooked, pan-fried",1.0,346.0,19.3,2.6,28.1,0.0
+4,4,Friday,,breakfast,1,smoothie_fruit_yogurt__breakfast,Smoothie (Fruit & Yogurt),1.0,280.0,12.0,55.0,3.0,7.0
+4,4,Friday,,lunch,0,meatball_sub_6_inch__lunch,Meatball Sub (6 inch),1.0,580.0,28.0,55.0,27.0,6.0
+4,4,Friday,,lunch,1,ceviche_1_cup_fish__lunch,Ceviche (1 cup fish),1.0,180.0,25.0,15.0,2.0,3.0
+4,4,Friday,,lunch,2,rye_bread_1_slice__lunch,Rye Bread (1 slice),1.0,83.0,2.7,15.5,1.1,1.9
+4,4,Friday,,dinner,0,osso_buco_1_serving__dinner,Osso Buco (1 serving),1.0,550.0,45.0,15.0,30.0,4.0
+4,4,Friday,,dinner,1,baked_potato_medium__dinner,Baked Potato (medium),1.0,160.0,4.3,36.0,0.2,3.8
+4,4,Friday,,snack,0,bread_whole_wheat_commercially_prepared__snack,"Bread, whole-wheat, commercially prepared",0.75,190.5,9.2,32.3,2.7,4.5
+4,5,Saturday,,breakfast,0,sausage_italian_pork_mild_cooked_pan_fried__breakfast,"Sausage, Italian, pork, mild, cooked, pan-fried",1.0,322.0,18.2,2.1,26.2,0.0
+4,5,Saturday,,breakfast,1,bagel_plain__breakfast,Bagel (plain),1.0,270.0,11.0,55.0,1.5,2.0
+4,5,Saturday,,lunch,0,reuben_sandwich__lunch,Reuben Sandwich,1.0,650.0,28.0,35.0,40.0,5.0
+4,5,Saturday,,lunch,1,cottage_cheese_1_cup_low_fat__lunch,Cottage Cheese (1 cup low fat),1.0,160.0,28.0,6.0,2.5,0.0
+4,5,Saturday,,dinner,0,beef_wellington_1_slice__dinner,Beef Wellington (1 slice),1.25,750.0,37.5,43.8,47.5,5.0
+4,5,Saturday,,snack,0,greek_yogurt_plain_1_cup__snack,Greek Yogurt (plain 1 cup),1.0,150.0,25.0,8.0,3.0,0.0
+4,5,Saturday,,snack,1,popcorn_3_cups_air_popped__snack,Popcorn (3 cups air-popped),1.0,93.0,3.0,18.6,1.1,3.6
+4,6,Sunday,,breakfast,0,egg_yolk_dried__breakfast,"Egg, yolk, dried",1.0,654.0,34.2,1.1,55.5,0.0
+4,6,Sunday,,lunch,0,grilled_chicken_salad__lunch,Grilled Chicken Salad,1.0,350.0,30.0,10.0,20.0,5.0
+4,6,Sunday,,lunch,1,philly_cheesesteak_6_inch__lunch,Philly Cheesesteak (6 inch),1.0,500.0,25.0,40.0,28.0,3.0
+4,6,Sunday,,dinner,0,chicken_alfredo_1_5_cups__dinner,Chicken Alfredo (1.5 cups),1.0,680.0,35.0,45.0,38.0,4.0
+4,6,Sunday,,snack,0,cheese_dry_white_queso_seco__snack,"Cheese, dry white, queso seco",0.75,244.5,18.4,1.6,18.2,0.0
+5,0,Monday,,breakfast,0,ham_cheese_croissant__breakfast,Ham & Cheese Croissant,1.0,400.0,15.0,35.0,22.0,2.0
+5,0,Monday,,breakfast,1,tofu_scramble__breakfast,Tofu Scramble,1.0,250.0,20.0,8.0,16.0,4.0
+5,0,Monday,,lunch,0,club_sandwich__lunch,Club Sandwich,1.0,580.0,35.0,40.0,30.0,5.0
+5,0,Monday,,lunch,1,lentil_soup_1_can__lunch,Lentil Soup (1 can),1.0,230.0,15.0,35.0,3.0,12.0
+5,0,Monday,,dinner,0,lomo_saltado_1_5_cups__dinner,Lomo Saltado (1.5 cups),1.0,500.0,35.0,45.0,22.0,5.0
+5,0,Monday,,dinner,1,pizza_margherita_1_slice__dinner,Pizza (Margherita 1 slice),1.0,250.0,12.0,30.0,10.0,3.0
+5,0,Monday,,snack,0,protein_bar__snack,Protein Bar,1.0,210.0,20.0,22.0,7.0,6.0
+5,1,Tuesday,,breakfast,0,eggs_benedict_1_serving__breakfast,Eggs Benedict (1 serving),1.0,600.0,25.0,30.0,40.0,3.0
+5,1,Tuesday,,lunch,0,shawarma_chicken_1_wrap__lunch,Shawarma (Chicken 1 wrap),1.0,550.0,30.0,50.0,25.0,6.0
+5,1,Tuesday,,lunch,1,turkey_sandwich_on_wheat__lunch,Turkey Sandwich (on wheat),1.0,340.0,22.0,34.0,12.0,5.0
+5,1,Tuesday,,dinner,0,veal_parmesan_1_serving__dinner,Veal Parmesan (1 serving),1.0,550.0,40.0,30.0,30.0,4.0
+5,1,Tuesday,,dinner,1,calamari_fried_3oz__dinner,Calamari (fried 3oz),1.0,150.0,13.0,8.0,7.0,1.0
+5,1,Tuesday,,snack,0,protein_shake_whey__snack,Protein Shake (Whey),1.0,120.0,24.0,3.0,1.0,1.0
+5,1,Tuesday,,snack,1,bananas_overripe_raw__snack,"Bananas, overripe, raw",1.0,85.0,0.7,20.1,0.2,1.7
+5,2,Wednesday,,breakfast,0,pork_cured_bacon_cooked_restaurant__breakfast,"Pork, cured, bacon, cooked, restaurant",1.0,500.0,40.9,2.1,36.5,0.0
+5,2,Wednesday,,breakfast,1,banana__breakfast,Banana,1.0,105.0,1.3,27.0,0.4,3.1
+5,2,Wednesday,,lunch,0,cobb_salad__lunch,Cobb Salad,1.0,510.0,30.0,12.0,38.0,7.0
+5,2,Wednesday,,lunch,1,chicken_wrap_with_tortilla__lunch,Chicken Wrap (with tortilla),1.0,410.0,25.0,38.0,17.0,5.0
+5,2,Wednesday,,dinner,0,beef_burrito_large__dinner,Beef Burrito (large),1.0,650.0,30.0,70.0,28.0,10.0
+5,2,Wednesday,,snack,0,turkey_ground_93_lean_7_fat_pan_broiled_crumbles__snack,"Turkey, ground, 93% lean, 7% fat, pan-broiled crumbles",1.0,220.0,27.1,0.0,11.6,0.0
+5,3,Thursday,,breakfast,0,biscuits_and_gravy_1_serving__breakfast,Biscuits and Gravy (1 serving),1.0,480.0,10.0,45.0,28.0,2.0
+5,3,Thursday,,breakfast,1,eggs_grade_a_large_egg_whole__breakfast,"Eggs, Grade A, Large, egg whole",1.0,148.0,12.4,1.0,10.0,0.0
+5,3,Thursday,,lunch,0,chicken_parm_sandwich__lunch,Chicken Parm Sandwich,1.0,650.0,40.0,55.0,30.0,6.0
+5,3,Thursday,,lunch,1,ceviche_1_cup_fish__lunch,Ceviche (1 cup fish),1.0,180.0,25.0,15.0,2.0,3.0
+5,3,Thursday,,dinner,0,osso_buco_1_serving__dinner,Osso Buco (1 serving),1.0,550.0,45.0,15.0,30.0,4.0
+5,3,Thursday,,dinner,1,gnocchi_1_cup__dinner,Gnocchi (1 cup),1.0,210.0,4.5,45.0,1.5,3.0
+5,3,Thursday,,snack,0,kibbeh_1_piece_fried__snack,Kibbeh (1 piece fried),0.75,172.5,6.8,15.0,9.8,2.2
+5,4,Friday,,breakfast,0,egg_whole_dried__breakfast,"Egg, whole, dried",1.0,575.0,48.1,1.9,39.8,0.0
+5,4,Friday,,lunch,0,reuben_sandwich__lunch,Reuben Sandwich,1.0,650.0,28.0,35.0,40.0,5.0
+5,4,Friday,,lunch,1,split_pea_soup_1_cup__lunch,Split Pea Soup (1 cup),1.0,180.0,11.0,30.0,2.0,10.0
+5,4,Friday,,dinner,0,chicken_milanesa_1_serving__dinner,Chicken Milanesa (1 serving),1.0,450.0,35.0,30.0,22.0,3.0
+5,4,Friday,,dinner,1,risotto_alla_milanese_1_cup__dinner,Risotto alla Milanese (1 cup),1.0,350.0,10.0,50.0,12.0,3.0
+5,4,Friday,,snack,0,chicken_broilers_or_fryers_drumstick_meat_only_cooked_braise__snack,"Chicken, broilers or fryers, drumstick, meat only, cooked, braised",1.25,195.0,29.9,0.0,7.4,0.0
+5,5,Saturday,,breakfast,0,egg_yolk_dried__breakfast,"Egg, yolk, dried",1.0,654.0,34.2,1.1,55.5,0.0
+5,5,Saturday,,lunch,0,vitello_tonnato_1_serving__lunch,Vitello Tonnato (1 serving),1.0,380.0,35.0,3.0,25.0,0.5
+5,5,Saturday,,lunch,1,hummus_wrap_large__lunch,Hummus Wrap (large),1.0,450.0,15.0,60.0,18.0,12.0
+5,5,Saturday,,dinner,0,chicken_alfredo_1_5_cups__dinner,Chicken Alfredo (1.5 cups),1.0,680.0,35.0,45.0,38.0,4.0
+5,5,Saturday,,snack,0,cheese_dry_white_queso_seco__snack,"Cheese, dry white, queso seco",0.75,244.5,18.4,1.6,18.2,0.0
+5,6,Sunday,,breakfast,0,ham_cheese_croissant__breakfast,Ham & Cheese Croissant,1.0,400.0,15.0,35.0,22.0,2.0
+5,6,Sunday,,breakfast,1,tofu_scramble__breakfast,Tofu Scramble,1.0,250.0,20.0,8.0,16.0,4.0
+5,6,Sunday,,lunch,0,club_sandwich__lunch,Club Sandwich,1.0,580.0,35.0,40.0,30.0,5.0
+5,6,Sunday,,lunch,1,lentil_soup_1_can__lunch,Lentil Soup (1 can),1.0,230.0,15.0,35.0,3.0,12.0
+5,6,Sunday,,dinner,0,beef_stroganoff_1_5_cups__dinner,Beef Stroganoff (1.5 cups),1.0,550.0,30.0,40.0,28.0,4.0
+5,6,Sunday,,dinner,1,mussels_3oz_steamed__dinner,Mussels (3oz steamed),1.0,146.0,20.0,6.0,4.0,0.0
+5,6,Sunday,,snack,0,arancini_1_large_ball__snack,Arancini (1 large ball),1.0,250.0,9.0,30.0,10.0,3.0
+6,0,Monday,,breakfast,0,eggs_benedict_1_serving__breakfast,Eggs Benedict (1 serving),1.0,600.0,25.0,30.0,40.0,3.0
+6,0,Monday,,lunch,0,meatball_sub_6_inch__lunch,Meatball Sub (6 inch),1.0,580.0,28.0,55.0,27.0,6.0
+6,0,Monday,,lunch,1,grilled_chicken_salad__lunch,Grilled Chicken Salad,1.0,350.0,30.0,10.0,20.0,5.0
+6,0,Monday,,dinner,0,veal_parmesan_1_serving__dinner,Veal Parmesan (1 serving),1.25,687.5,50.0,37.5,37.5,5.0
+6,0,Monday,,snack,0,protein_bar__snack,Protein Bar,0.75,157.5,15.0,16.5,5.2,4.5
+6,1,Tuesday,,breakfast,0,pork_cured_bacon_cooked_restaurant__breakfast,"Pork, cured, bacon, cooked, restaurant",1.0,500.0,40.9,2.1,36.5,0.0
+6,1,Tuesday,,breakfast,1,cereal_frosted_flakes_1_cup__breakfast,Cereal (Frosted Flakes 1 cup),1.0,130.0,2.0,31.0,0.0,1.0
+6,1,Tuesday,,lunch,0,cobb_salad__lunch,Cobb Salad,1.0,510.0,30.0,12.0,38.0,7.0
+6,1,Tuesday,,lunch,1,quesadilla_cheese_1_medium__lunch,Quesadilla (Cheese 1 medium),1.0,400.0,18.0,35.0,22.0,3.0
+6,1,Tuesday,,dinner,0,beef_burrito_large__dinner,Beef Burrito (large),1.0,650.0,30.0,70.0,28.0,10.0
+6,1,Tuesday,,snack,0,chicken_broiler_or_fryers_breast_skinless_boneless_meat_only__snack,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",1.0,166.0,32.1,0.0,3.2,0.0
+6,1,Tuesday,,snack,1,pears_raw_bartlett_includes_foods_for_usda_s_food_distributi__snack,"Pears, raw, bartlett (Includes foods for USDA's Food Distribution Program)",1.0,57.0,0.4,15.1,0.2,3.1
+6,2,Wednesday,,breakfast,0,sausage_pork_chorizo_link_or_ground_cooked_pan_fried__breakfast,"Sausage, pork, chorizo, link or ground, cooked, pan-fried",1.0,346.0,19.3,2.6,28.1,0.0
+6,2,Wednesday,,breakfast,1,smoothie_fruit_yogurt__breakfast,Smoothie (Fruit & Yogurt),1.0,280.0,12.0,55.0,3.0,7.0
+6,2,Wednesday,,lunch,0,shawarma_chicken_1_wrap__lunch,Shawarma (Chicken 1 wrap),1.0,550.0,30.0,50.0,25.0,6.0
+6,2,Wednesday,,lunch,1,turkey_sandwich_on_wheat__lunch,Turkey Sandwich (on wheat),1.0,340.0,22.0,34.0,12.0,5.0
+6,2,Wednesday,,dinner,0,osso_buco_1_serving__dinner,Osso Buco (1 serving),1.25,687.5,56.2,18.8,37.5,5.0
+6,2,Wednesday,,snack,0,suppl_1_piece_fried_rice_ball__snack,Supplì (1 piece fried rice ball),1.0,200.0,8.0,25.0,8.0,2.0
+6,3,Thursday,,breakfast,0,egg_whole_dried__breakfast,"Egg, whole, dried",1.0,575.0,48.1,1.9,39.8,0.0
+6,3,Thursday,,lunch,0,reuben_sandwich__lunch,Reuben Sandwich,1.0,650.0,28.0,35.0,40.0,5.0
+6,3,Thursday,,lunch,1,ceviche_1_cup_fish__lunch,Ceviche (1 cup fish),1.0,180.0,25.0,15.0,2.0,3.0
+6,3,Thursday,,dinner,0,paella_1_5_cups_seafood__dinner,Paella (1.5 cups seafood),1.0,550.0,30.0,70.0,18.0,6.0
+6,3,Thursday,,dinner,1,wild_rice_1_cup_cooked__dinner,Wild Rice (1 cup cooked),1.0,166.0,6.5,35.0,0.6,3.0
+6,3,Thursday,,snack,0,bread_whole_wheat_commercially_prepared__snack,"Bread, whole-wheat, commercially prepared",1.0,254.0,12.3,43.1,3.5,6.0
+6,3,Thursday,,snack,1,chocolate_hershey_s_bar_1_segment__snack,Chocolate (Hershey's bar 1 segment),1.0,25.0,0.3,3.0,1.5,0.2
+6,4,Friday,,breakfast,0,sausage_italian_pork_mild_cooked_pan_fried__breakfast,"Sausage, Italian, pork, mild, cooked, pan-fried",1.0,322.0,18.2,2.1,26.2,0.0
+6,4,Friday,,breakfast,1,bagel_plain__breakfast,Bagel (plain),1.0,270.0,11.0,55.0,1.5,2.0
+6,4,Friday,,lunch,0,chicken_parm_sandwich__lunch,Chicken Parm Sandwich,1.0,650.0,40.0,55.0,30.0,6.0
+6,4,Friday,,lunch,1,tempeh_3oz__lunch,Tempeh (3oz),1.0,160.0,16.0,8.0,9.0,5.0
+6,4,Friday,,dinner,0,lomo_saltado_1_5_cups__dinner,Lomo Saltado (1.5 cups),1.0,500.0,35.0,45.0,22.0,5.0
+6,4,Friday,,dinner,1,pizza_1_slice_pepperoni__dinner,Pizza (1 slice pepperoni),1.0,290.0,12.0,34.0,12.0,2.0
+6,4,Friday,,snack,0,ham_sliced_restaurant__snack,"Ham, sliced, restaurant",1.0,121.0,19.6,2.4,3.7,0.0
+6,4,Friday,,snack,1,figs_2_medium__snack,Figs (2 medium),1.0,74.0,0.6,19.2,0.3,2.9
+6,5,Saturday,,breakfast,0,egg_yolk_dried__breakfast,"Egg, yolk, dried",1.0,654.0,34.2,1.1,55.5,0.0
+6,5,Saturday,,lunch,0,club_sandwich__lunch,Club Sandwich,1.0,580.0,35.0,40.0,30.0,5.0
+6,5,Saturday,,lunch,1,lentil_soup_1_can__lunch,Lentil Soup (1 can),1.0,230.0,15.0,35.0,3.0,12.0
+6,5,Saturday,,dinner,0,chicken_alfredo_1_5_cups__dinner,Chicken Alfredo (1.5 cups),1.0,680.0,35.0,45.0,38.0,4.0
+6,5,Saturday,,snack,0,turkey_ground_93_lean_7_fat_pan_broiled_crumbles__snack,"Turkey, ground, 93% lean, 7% fat, pan-broiled crumbles",1.25,275.0,33.9,0.0,14.5,0.0
+6,6,Sunday,,breakfast,0,tofu_scramble__breakfast,Tofu Scramble,1.0,250.0,20.0,8.0,16.0,4.0
+6,6,Sunday,,breakfast,1,ham_cheese_croissant__breakfast,Ham & Cheese Croissant,1.0,400.0,15.0,35.0,22.0,2.0
+6,6,Sunday,,lunch,0,meatball_sub_6_inch__lunch,Meatball Sub (6 inch),1.0,580.0,28.0,55.0,27.0,6.0
+6,6,Sunday,,lunch,1,cottage_cheese_1_cup_low_fat__lunch,Cottage Cheese (1 cup low fat),1.0,160.0,28.0,6.0,2.5,0.0
+6,6,Sunday,,lunch,2,bulgur_1_4_cup_in_tabouli__lunch,Bulgur (1/4 cup in tabouli),1.0,76.0,2.7,16.8,0.2,4.1
+6,6,Sunday,,dinner,0,veal_parmesan_1_serving__dinner,Veal Parmesan (1 serving),1.0,550.0,40.0,30.0,30.0,4.0
+6,6,Sunday,,dinner,1,baked_potato_medium__dinner,Baked Potato (medium),1.0,160.0,4.3,36.0,0.2,3.8
+6,6,Sunday,,snack,0,arancini_1_large_ball__snack,Arancini (1 large ball),1.0,250.0,9.0,30.0,10.0,3.0
+7,0,Monday,,breakfast,0,pork_cured_bacon_cooked_restaurant__breakfast,"Pork, cured, bacon, cooked, restaurant",1.0,500.0,40.9,2.1,36.5,0.0
+7,0,Monday,,breakfast,1,banana__breakfast,Banana,1.0,105.0,1.3,27.0,0.4,3.1
+7,0,Monday,,lunch,0,vitello_tonnato_1_serving__lunch,Vitello Tonnato (1 serving),1.0,380.0,35.0,3.0,25.0,0.5
+7,0,Monday,,lunch,1,hummus_wrap_large__lunch,Hummus Wrap (large),1.0,450.0,15.0,60.0,18.0,12.0
+7,0,Monday,,dinner,0,beef_burrito_large__dinner,Beef Burrito (large),1.0,650.0,30.0,70.0,28.0,10.0
+7,0,Monday,,dinner,1,chicken_liver_2_oz_cooked__dinner,Chicken Liver (2 oz cooked),1.0,91.0,13.6,0.6,3.6,0.0
+7,0,Monday,,snack,0,bread_white_commercially_prepared__snack,"Bread, white, commercially prepared",0.75,202.5,7.1,36.9,2.7,1.7
+7,1,Tuesday,,breakfast,0,eggs_benedict_1_serving__breakfast,Eggs Benedict (1 serving),1.0,600.0,25.0,30.0,40.0,3.0
+7,1,Tuesday,,lunch,0,shawarma_chicken_1_wrap__lunch,Shawarma (Chicken 1 wrap),1.0,550.0,30.0,50.0,25.0,6.0
+7,1,Tuesday,,lunch,1,turkey_sandwich_on_wheat__lunch,Turkey Sandwich (on wheat),1.0,340.0,22.0,34.0,12.0,5.0
+7,1,Tuesday,,dinner,0,osso_buco_1_serving__dinner,Osso Buco (1 serving),1.25,687.5,56.2,18.8,37.5,5.0
+7,1,Tuesday,,snack,0,protein_bar__snack,Protein Bar,1.0,210.0,20.0,22.0,7.0,6.0
+7,2,Wednesday,,breakfast,0,egg_whole_dried__breakfast,"Egg, whole, dried",1.0,575.0,48.1,1.9,39.8,0.0
+7,2,Wednesday,,lunch,0,reuben_sandwich__lunch,Reuben Sandwich,1.0,650.0,28.0,35.0,40.0,5.0
+7,2,Wednesday,,lunch,1,ceviche_1_cup_fish__lunch,Ceviche (1 cup fish),1.0,180.0,25.0,15.0,2.0,3.0
+7,2,Wednesday,,dinner,0,paella_1_5_cups_seafood__dinner,Paella (1.5 cups seafood),1.0,550.0,30.0,70.0,18.0,6.0
+7,2,Wednesday,,dinner,1,wild_rice_1_cup_cooked__dinner,Wild Rice (1 cup cooked),1.0,166.0,6.5,35.0,0.6,3.0
+7,2,Wednesday,,snack,0,bread_whole_wheat_commercially_prepared__snack,"Bread, whole-wheat, commercially prepared",1.0,254.0,12.3,43.1,3.5,6.0
+7,2,Wednesday,,snack,1,rag_filling_1_tbsp__snack,Ragù (filling 1 tbsp),1.0,25.0,1.5,1.0,1.5,0.5
+7,3,Thursday,,breakfast,0,sausage_pork_chorizo_link_or_ground_cooked_pan_fried__breakfast,"Sausage, pork, chorizo, link or ground, cooked, pan-fried",1.0,346.0,19.3,2.6,28.1,0.0
+7,3,Thursday,,breakfast,1,bagel_plain__breakfast,Bagel (plain),1.0,270.0,11.0,55.0,1.5,2.0
+7,3,Thursday,,lunch,0,chicken_parm_sandwich__lunch,Chicken Parm Sandwich,1.0,650.0,40.0,55.0,30.0,6.0
+7,3,Thursday,,lunch,1,split_pea_soup_1_cup__lunch,Split Pea Soup (1 cup),1.0,180.0,11.0,30.0,2.0,10.0
+7,3,Thursday,,dinner,0,t_bone_steak_6oz__dinner,T-Bone Steak (6oz),1.5,690.0,57.0,0.0,49.5,0.0
+7,3,Thursday,,snack,0,chocolate_milk_1_cup__snack,Chocolate Milk (1 cup),1.0,200.0,8.0,26.0,8.0,1.0
+7,3,Thursday,,snack,1,broccoli_raw__snack,"Broccoli, raw",1.0,32.0,2.6,6.3,0.3,2.4
+7,3,Thursday,,snack,2,breadcrumbs_coating__snack,Breadcrumbs (coating),1.0,25.0,0.5,4.0,0.5,0.5
+7,4,Friday,,breakfast,0,egg_yolk_dried__breakfast,"Egg, yolk, dried",1.0,654.0,34.2,1.1,55.5,0.0
+7,4,Friday,,lunch,0,cobb_salad__lunch,Cobb Salad,1.0,510.0,30.0,12.0,38.0,7.0
+7,4,Friday,,lunch,1,chicken_wrap_with_tortilla__lunch,Chicken Wrap (with tortilla),1.0,410.0,25.0,38.0,17.0,5.0
+7,4,Friday,,dinner,0,lomo_saltado_1_5_cups__dinner,Lomo Saltado (1.5 cups),1.0,500.0,35.0,45.0,22.0,5.0
+7,4,Friday,,dinner,1,white_beans_tuscan_style_1_2_cup__dinner,White Beans (Tuscan style 1/2 cup),1.0,150.0,8.0,20.0,4.0,7.0
+7,4,Friday,,snack,0,chicken_broilers_or_fryers_drumstick_meat_only_cooked_braise__snack,"Chicken, broilers or fryers, drumstick, meat only, cooked, braised",1.25,195.0,29.9,0.0,7.4,0.0
+7,5,Saturday,,breakfast,0,tofu_scramble__breakfast,Tofu Scramble,1.0,250.0,20.0,8.0,16.0,4.0
+7,5,Saturday,,breakfast,1,ham_cheese_croissant__breakfast,Ham & Cheese Croissant,1.0,400.0,15.0,35.0,22.0,2.0
+7,5,Saturday,,lunch,0,club_sandwich__lunch,Club Sandwich,1.0,580.0,35.0,40.0,30.0,5.0
+7,5,Saturday,,lunch,1,lentil_soup_1_can__lunch,Lentil Soup (1 can),1.0,230.0,15.0,35.0,3.0,12.0
+7,5,Saturday,,dinner,0,veal_parmesan_1_serving__dinner,Veal Parmesan (1 serving),1.0,550.0,40.0,30.0,30.0,4.0
+7,5,Saturday,,dinner,1,angel_hair_pasta_1_cup__dinner,Angel Hair Pasta (1 cup),1.0,200.0,7.0,42.0,1.0,2.0
+7,5,Saturday,,snack,0,ham_sliced_restaurant__snack,"Ham, sliced, restaurant",1.0,121.0,19.6,2.4,3.7,0.0
+7,5,Saturday,,snack,1,papaya_1_cup_cubes__snack,Papaya (1 cup cubes),1.0,62.0,0.6,15.7,0.4,2.5
+7,6,Sunday,,breakfast,0,pork_cured_bacon_cooked_restaurant__breakfast,"Pork, cured, bacon, cooked, restaurant",1.0,500.0,40.9,2.1,36.5,0.0
+7,6,Sunday,,breakfast,1,banana__breakfast,Banana,1.0,105.0,1.3,27.0,0.4,3.1
+7,6,Sunday,,lunch,0,meatball_sub_6_inch__lunch,Meatball Sub (6 inch),1.5,870.0,42.0,82.5,40.5,9.0
+7,6,Sunday,,dinner,0,chicken_alfredo_1_5_cups__dinner,Chicken Alfredo (1.5 cups),1.0,680.0,35.0,45.0,38.0,4.0
+7,6,Sunday,,snack,0,turkey_ground_93_lean_7_fat_pan_broiled_crumbles__snack,"Turkey, ground, 93% lean, 7% fat, pan-broiled crumbles",1.0,220.0,27.1,0.0,11.6,0.0
+8,0,Monday,,breakfast,0,eggs_benedict_1_serving__breakfast,Eggs Benedict (1 serving),1.0,600.0,25.0,30.0,40.0,3.0
+8,0,Monday,,lunch,0,philly_cheesesteak_6_inch__lunch,Philly Cheesesteak (6 inch),1.0,500.0,25.0,40.0,28.0,3.0
+8,0,Monday,,lunch,1,tuna_melt__lunch,Tuna Melt,1.0,450.0,25.0,32.0,25.0,3.0
+8,0,Monday,,dinner,0,osso_buco_1_serving__dinner,Osso Buco (1 serving),1.25,687.5,56.2,18.8,37.5,5.0
+8,0,Monday,,snack,0,protein_bar__snack,Protein Bar,0.75,157.5,15.0,16.5,5.2,4.5
+8,1,Tuesday,,breakfast,0,egg_whole_dried__breakfast,"Egg, whole, dried",1.0,575.0,48.1,1.9,39.8,0.0
+8,1,Tuesday,,lunch,0,caesar_salad_with_chicken__lunch,Caesar Salad (with chicken),1.0,470.0,30.0,15.0,30.0,3.0
+8,1,Tuesday,,lunch,1,hummus_wrap_large__lunch,Hummus Wrap (large),1.0,450.0,15.0,60.0,18.0,12.0
+8,1,Tuesday,,dinner,0,paella_1_5_cups_seafood__dinner,Paella (1.5 cups seafood),1.0,550.0,30.0,70.0,18.0,6.0
+8,1,Tuesday,,dinner,1,calamari_fried_3oz__dinner,Calamari (fried 3oz),1.0,150.0,13.0,8.0,7.0,1.0
+8,1,Tuesday,,snack,0,arancini_1_large_ball__snack,Arancini (1 large ball),0.75,187.5,6.8,22.5,7.5,2.2
+8,2,Wednesday,,breakfast,0,sausage_pork_chorizo_link_or_ground_cooked_pan_fried__breakfast,"Sausage, pork, chorizo, link or ground, cooked, pan-fried",1.0,346.0,19.3,2.6,28.1,0.0
+8,2,Wednesday,,breakfast,1,bagel_plain__breakfast,Bagel (plain),1.0,270.0,11.0,55.0,1.5,2.0
+8,2,Wednesday,,lunch,0,chicken_parm_sandwich__lunch,Chicken Parm Sandwich,1.0,650.0,40.0,55.0,30.0,6.0
+8,2,Wednesday,,lunch,1,tempeh_3oz__lunch,Tempeh (3oz),1.0,160.0,16.0,8.0,9.0,5.0
+8,2,Wednesday,,dinner,0,chicken_milanesa_1_serving__dinner,Chicken Milanesa (1 serving),1.0,450.0,35.0,30.0,22.0,3.0
+8,2,Wednesday,,dinner,1,risotto_alla_milanese_1_cup__dinner,Risotto alla Milanese (1 cup),1.0,350.0,10.0,50.0,12.0,3.0
+8,2,Wednesday,,snack,0,greek_yogurt_plain_1_cup__snack,Greek Yogurt (plain 1 cup),1.0,150.0,25.0,8.0,3.0,0.0
+8,2,Wednesday,,snack,1,strawberries_raw__snack,"Strawberries, raw",1.0,31.0,0.6,7.6,0.2,1.8
+8,3,Thursday,,breakfast,0,egg_yolk_dried__breakfast,"Egg, yolk, dried",1.0,654.0,34.2,1.1,55.5,0.0
+8,3,Thursday,,lunch,0,shawarma_chicken_1_wrap__lunch,Shawarma (Chicken 1 wrap),1.0,550.0,30.0,50.0,25.0,6.0
+8,3,Thursday,,lunch,1,ceviche_1_cup_fish__lunch,Ceviche (1 cup fish),1.0,180.0,25.0,15.0,2.0,3.0
+8,3,Thursday,,lunch,2,crackers_5_whole_wheat__lunch,Crackers (5 whole wheat),1.0,90.0,2.0,14.0,3.0,2.0
+8,3,Thursday,,dinner,0,beef_wellington_1_slice__dinner,Beef Wellington (1 slice),1.25,750.0,37.5,43.8,47.5,5.0
+8,3,Thursday,,snack,0,cheese_mozzarella_low_moisture_part_skim__snack,"Cheese, mozzarella, low moisture, part-skim",0.5,149.0,11.8,2.2,10.2,0.0
+8,4,Friday,,breakfast,0,tofu_scramble__breakfast,Tofu Scramble,1.0,250.0,20.0,8.0,16.0,4.0
+8,4,Friday,,breakfast,1,smoothie_fruit_yogurt__breakfast,Smoothie (Fruit & Yogurt),1.0,280.0,12.0,55.0,3.0,7.0
+8,4,Friday,,breakfast,2,sausage_link_1_cooked__breakfast,Sausage Link (1 cooked),1.0,85.0,5.0,1.0,7.0,0.0
+8,4,Friday,,lunch,0,vitello_tonnato_1_serving__lunch,Vitello Tonnato (1 serving),1.0,380.0,35.0,3.0,25.0,0.5
+8,4,Friday,,lunch,1,pulled_pork_sandwich__lunch,Pulled Pork Sandwich,1.0,480.0,25.0,48.0,20.0,3.0
+8,4,Friday,,dinner,0,veal_parmesan_1_serving__dinner,Veal Parmesan (1 serving),1.0,550.0,40.0,30.0,30.0,4.0
+8,4,Friday,,dinner,1,baked_potato_medium__dinner,Baked Potato (medium),1.0,160.0,4.3,36.0,0.2,3.8
+8,4,Friday,,snack,0,kibbeh_1_piece_fried__snack,Kibbeh (1 piece fried),1.0,230.0,9.0,20.0,13.0,3.0
+8,5,Saturday,,breakfast,0,pork_cured_bacon_cooked_restaurant__breakfast,"Pork, cured, bacon, cooked, restaurant",1.0,500.0,40.9,2.1,36.5,0.0
+8,5,Saturday,,breakfast,1,banana__breakfast,Banana,1.0,105.0,1.3,27.0,0.4,3.1
+8,5,Saturday,,lunch,0,meatball_sub_6_inch__lunch,Meatball Sub (6 inch),1.0,580.0,28.0,55.0,27.0,6.0
+8,5,Saturday,,lunch,1,turkey_sandwich_on_wheat__lunch,Turkey Sandwich (on wheat),1.0,340.0,22.0,34.0,12.0,5.0
+8,5,Saturday,,dinner,0,lomo_saltado_1_5_cups__dinner,Lomo Saltado (1.5 cups),1.0,500.0,35.0,45.0,22.0,5.0
+8,5,Saturday,,dinner,1,wild_rice_1_cup_cooked__dinner,Wild Rice (1 cup cooked),1.0,166.0,6.5,35.0,0.6,3.0
+8,5,Saturday,,snack,0,ham_sliced_pre_packaged_deli_meat_96_fat_free_water_added__snack,"Ham, sliced, pre-packaged, deli meat (96%fat free, water added)",1.0,106.0,16.7,0.3,3.7,0.0
+8,5,Saturday,,snack,1,bananas_ripe_and_slightly_ripe_raw__snack,"Bananas, ripe and slightly ripe, raw",1.0,97.0,0.7,23.0,0.3,1.7
+8,6,Sunday,,breakfast,0,eggs_benedict_1_serving__breakfast,Eggs Benedict (1 serving),1.0,600.0,25.0,30.0,40.0,3.0
+8,6,Sunday,,lunch,0,cobb_salad__lunch,Cobb Salad,1.0,510.0,30.0,12.0,38.0,7.0
+8,6,Sunday,,lunch,1,chicken_wrap_with_tortilla__lunch,Chicken Wrap (with tortilla),1.0,410.0,25.0,38.0,17.0,5.0
+8,6,Sunday,,dinner,0,osso_buco_1_serving__dinner,Osso Buco (1 serving),1.25,687.5,56.2,18.8,37.5,5.0
+8,6,Sunday,,snack,0,edamame_in_pod_1_cup__snack,Edamame (in pod 1 cup),1.0,120.0,11.0,9.0,5.0,5.0
+8,6,Sunday,,snack,1,custard_1_4_cup__snack,Custard (1/4 cup),1.0,80.0,3.0,10.0,3.0,0.0
