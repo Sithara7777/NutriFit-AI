@@ -1,0 +1,41 @@
+{
+  "name": "NutriFit-AI calorie & protein requirement models",
+  "version": "1.0.0",
+  "trained_at": "2026-08-07T08:07:39.210181+00:00",
+  "algorithms": [
+    "LinearRegression",
+    "RandomForestRegressor"
+  ],
+  "selected": {
+    "calorie_target": "RandomForest",
+    "protein_target": "RandomForest"
+  },
+  "features": [
+    "age",
+    "height_cm",
+    "weight_kg",
+    "bmi",
+    "body_fat_pct",
+    "workout_frequency",
+    "session_duration_h",
+    "experience_level",
+    "gender",
+    "fitness_goal",
+    "activity_level"
+  ],
+  "training_rows": 973,
+  "label_construction": "Katch-McArdle BMR where body fat is measured, else Mifflin-St Jeor; FAO/WHO PAL multiplier; goal-specific energy adjustment and ISSN protein coefficient sampled within published ranges; Gaussian residual noise. See ml/nutrifit/labels.py.",
+  "intended_use": "Nutritional guidance for healthy adult gym users. Not a medical device; not for clinical populations, pregnancy, or eating disorders.",
+  "known_limitations": [
+    "Trained on 973 records; Random Forest is data-starved at this scale.",
+    "Fitness goals are synthetically assigned, not self-reported.",
+    "No allergy, medical-condition or dietary-restriction handling.",
+    "Body fat is Deurenberg-estimated when not user-supplied."
+  ],
+  "environment": {
+    "python": "3.12.13",
+    "scikit_learn": "1.6.1",
+    "numpy": "2.0.2",
+    "pandas": "2.2.2"
+  }
+}
